@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.17)
+project(data-structure)
+add_subdirectory(queue)
+add_subdirectory(singly-linked-lists)
+add_subdirectory(vector)
